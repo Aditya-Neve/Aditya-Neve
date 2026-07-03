@@ -16,6 +16,62 @@
   <img src="https://komarev.com/ghpvc/?username=AdityaNeve&label=PROFILE%20VIEWS&color=8A2BE2&style=flat" alt="Profile Views"/>
 </p>
 
+<!-- ======================== About Me ======================== -->
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" />
+  About Me
+</h2>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<ul>
+
+<li>🎓 <b>Currently pursuing Diploma in Computer Engineering</b> from <b>Government Polytechnic Pune</b></li>
+
+<br>
+
+<li>📍 India | 17</li>
+
+<br>
+
+<li>🧠 Exploring <b>Data Science, AI/ML, Blockchain, Backend Development,</b> and <b>Cybersecurity</b></li>
+
+<br>
+
+<li>📗 Learning and exploring real-world technology with curiosity and purpose.</li>
+
+<br>
+
+<li>➕ I love <b>Mathematics</b> and solving challenging problems.</li>
+
+<br>
+
+<li>
+📨 <b>Mail me :</b>
+
+<a href="mailto:adityan@leometric.com">
+<img src="https://img.shields.io/badge/MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</li>
+
+</ul>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="340"/>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <!-- ===================== Connect & Build ===================== -->
 
