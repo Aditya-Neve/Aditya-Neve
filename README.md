@@ -11,9 +11,8 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AdityaNeve&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=AdityaNeve&label=PROFILE%20VIEWS&color=8A2BE2&style=flat" alt="Aditya Neve" />
 </p>
-
 
 
 <p align="center">
