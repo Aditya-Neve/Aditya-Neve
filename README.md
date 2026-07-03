@@ -19,7 +19,7 @@
 
 <!-- ===================== Connect & Build ===================== -->
 
-<h2 align="center">
+<h2 >
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
   Connect &amp; Build
 </h2>
