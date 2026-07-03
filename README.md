@@ -5,8 +5,9 @@
 </p>
 
 <!-- Tagline Section -->
+<!-- Typing Effect Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=Full+Stack+Developer;Python+Developer;AI+%26+ML+Enthusiast;Crafting+Scalable+Solutions;Building+Intelligent+Applications;Exploring+Future+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&color=00CED1&lines=Full+Stack+Developer;Python+Developer;AI+%26+ML+Enthusiast;Crafting+Scalable+Solutions;Building+Intelligent+Applications;Exploring+Future+Technologies" />
 </p>
 
 <p align="center">
