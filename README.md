@@ -17,10 +17,25 @@
 </p>
 
 
+<!-- ===================== Connect & Build ===================== -->
+
+<h2>👨‍👩‍👧‍👦 Connect &amp; Build</h2>
+
+> *Let's turn ideas into reality.*
+
 <p align="center">
-  <a href="mailto:your-email@example.com">📧 Email Me</a> | 
-  <a href="https://linkedin.com/in/yourprofile">🔗 LinkedIn</a>
+
+<a href="mailto:adityan@leometric.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/aditya-nilesh-neve" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
+
+---
 
 <!--
 **Aditya-Neve/Aditya-Neve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
