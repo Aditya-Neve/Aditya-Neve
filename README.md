@@ -23,6 +23,10 @@
   Connect &amp; Build
 </h2>
 <h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
+  Connect &amp; Build
+</h2>
+<h2 align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="42">
   Connect &amp; Build
 </h2>
