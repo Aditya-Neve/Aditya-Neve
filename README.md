@@ -5,7 +5,9 @@
 </p>
 
 <!-- Tagline Section -->
-<h2 align="center">Passionate about Scalable Software Solutions</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=Full+Stack+Developer;Python+Developer;AI+%26+ML+Enthusiast;Crafting+Scalable+Solutions;Building+Intelligent+Applications;Exploring+Future+Technologies" />
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AdityaNeve&label=Profile%20Views&color=blue&style=flat"/>
