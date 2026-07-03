@@ -8,7 +8,7 @@
 <h2 align="center">Passionate about Scalable Software Solutions</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=blueviolet" alt="Aditya Neve" />
+<img src="https://komarev.com/ghpvc/?username=AdityaNeve&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 
