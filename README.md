@@ -18,26 +18,12 @@
 
 
 <!-- ===================== Connect & Build ===================== -->
-<h2 >
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40">
-  Connect &amp; Build
-</h2>
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
   Connect &amp; Build
 </h2>
-<h2 align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="42">
-  Connect &amp; Build
-</h2>
-<h2 >
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Connect &amp; Build
-</h2>
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B3MXR2eDVvY3BqMWQzY3h4bXQ5NnI4M3l6MzZ3d3k2Z2FzM2lqMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="42">
-  Connect &amp; Build
-</h2>
+
 
 > *Let's turn ideas into reality.*
 
