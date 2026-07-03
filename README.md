@@ -1,7 +1,7 @@
-## Hi, I'm Aditya Nilesh Neve
+
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!%20I'm%20Aditya%20Neve&fontSize=60&desc=Software%20Engineering%20Intern%20|%20Collin%20IT%20Solutions&descSize=25&fontAlignY=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!%20I'm%20Aditya%20Neve&fontSize=60&desc=Intern%20|%20Leometric%20Technology%20Pvt.%20Ltd.&descSize=25&fontAlignY=40&animation=fadeIn" />
 </p>
 
 <!-- Tagline Section -->
