@@ -15,7 +15,25 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdityaNeve&label=PROFILE%20VIEWS&color=8A2BE2&style=flat" alt="Profile Views"/>
 </p>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Code.png" width="30"/> About me</h3>
 
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎓 Currently pursuing Diploma in Computer Engineering from <b>Government Polytechnic Pune</b></li>
+        <li>📍 India | 17</li>
+        <li>🧠 Exploring Data Science, AI/ML/Blockchain, Backend Development, and Cybersecurity</li>
+        <li>📑 Learning and exploring real-world tech with curiosity and purpose.</li>
+        <li>➕ I love Mathematics and solving problems.</li>
+        <li>📧 Mail me : <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/absrvx/absrvx/main/assets/developer.gif" width="400"/>
+    </td>
+  </tr>
+</table>
 
 
 
